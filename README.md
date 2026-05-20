@@ -25,11 +25,6 @@ Aspiring Data Scientist passionate about Machine Learning and real-world problem
 - Frameworks / Libraries: React, Node.js/Express, Next.js, Flask
 - Tools & Platforms: Git, Docker, PostgreSQL, Redis, AWS/GCP, CI/CD
 
-## ⭐ Featured Projects
-
-- [Project One](link) — Short explanation (what it does, tech used, why it's cool).
-- [Project Two](link) — Short explanation (include link to repo or demo).
-- [Project Three](link) — Short explanation.
 
 
 ## 🤝 Contributing
